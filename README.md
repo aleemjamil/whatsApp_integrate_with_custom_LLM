@@ -207,18 +207,6 @@ This document is provided to you by Datalumina. We help data analysts, engineers
 ## Tutorials
 For video tutorials, visit the YouTube channel: [youtube.com/@daveebbelaar](youtube.com/@daveebbelaar)# integration_llm_chatbot_with_whatsapp
 
-# Assigned Team:
-### Project Manager:
-- Asma Shoukat
-
-### Team Leads:
-- Abdullah Waseem
-- Muhammad Bial
-
-### Data Scientists:
-- Zohaib Khan
-- Fahad Ali
-
 
 # License
 This project is licensed under the ML1
